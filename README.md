@@ -20,3 +20,7 @@ Netflix review Crawling
 ![image](https://user-images.githubusercontent.com/57780594/157157763-29ac5f96-0a8c-4e49-94fa-02eb902801da.png)
 ![image](https://user-images.githubusercontent.com/57780594/157159368-b795b344-dab3-4cae-8c5b-f0d94c23ba8a.png)
 ![image](https://user-images.githubusercontent.com/57780594/157159407-0cd5c4ad-3790-4c7a-b9c0-4a092c287a76.png)
+
+-메일 전송시 결과물
+![스크린샷 2022-03-11 오후 4 16 58](https://user-images.githubusercontent.com/89174775/157820474-cfce5d5b-6e1f-416e-bc42-49e25e6fd80d.png)
+
